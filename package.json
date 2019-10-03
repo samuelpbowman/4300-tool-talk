@@ -4,7 +4,13 @@
   "description": "a demo program in react.js for my CSCI 4300 tool talk",
   "main": "index.js",
   "scripts": {
-    "test": "npm start"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
   },
   "repository": {
     "type": "git",
@@ -15,5 +21,11 @@
   "bugs": {
     "url": "https://github.com/samuelpbowman/4300-tool-talk/issues"
   },
-  "homepage": "https://github.com/samuelpbowman/4300-tool-talk#readme"
+  "homepage": "https://github.com/samuelpbowman/4300-tool-talk#readme",
+  "dependencies": {
+    "react": "^16.10.1",
+    "react-dom": "^16.10.1",
+    "react-scripts": "3.1.2",
+    "typescript": "3.6.3"
+  }
 }
