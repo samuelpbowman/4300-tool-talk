@@ -192,17 +192,17 @@ var data = {
             },
             {
                 "name": "Burrito Vallarta",
-                "desc": "Flour tortilla (12\") stuffed with rice, jalapeöos, grilled shrimp and sautéed veggies (bell peppers, onions, zucchini, tomatoes and mushrooms). Served with lettuce, sour cream and pico de gallo.",
+                "desc": "Flour tortilla (12\") stuffed with rice, jalapeños, grilled shrimp and sautéed veggies (bell peppers, onions, zucchini, tomatoes and mushrooms). Served with lettuce, sour cream and pico de gallo.",
                 "price": "9.50"
             },
             {
                 "name": "Burrito Especial",
-                "desc": "Flour tortilla (12\") stuffed with your choice of meat, refried beans, lettuce, tomatoes, onions, sour cream and jalapeäos. ",
+                "desc": "Flour tortilla (12\") stuffed with your choice of meat, refried beans, lettuce, tomatoes, onions, sour cream and jalapeños. ",
                 "price": "6.00"
             },
             {
                 "name": "Burrito Vegetariano",
-                "desc": "Flour tortilla/ 12\") stuffed with rice, refried beans, lettuce, tomatoes, onions, sour cream, shredded cheese and jalapeäos. Flour tortilla (8\") filled with your choice of meat or filling. Topped with shredded cheese and our house tomato sauce.",
+                "desc": "Flour tortilla/ 12\") stuffed with rice, refried beans, lettuce, tomatoes, onions, sour cream, shredded cheese and jalapeños. Flour tortilla (8\") filled with your choice of meat or filling. Topped with shredded cheese and our house tomato sauce.",
                 "price": "4.00"
             },
             {
