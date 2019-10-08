@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    background-color: #C0C0C0;
+}
+
+#container > div {
+    float: left;
+    max-height: 100vh;
+}
+
+#sideMenu {
+    width: 20%;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    background-color: #F8F8F8;
+    overflow-y: scroll;
+}
+
+.menuCard {
+    text-align: center;
+    padding-top: 0.25em;
+    padding-bottom: 0.25em;
+    margin-top: 0;
+    margin-bottom: 0;
+    background: linear-gradient(#F1F1F1,#FFFFFF);
+}
+
+.menuCard > h3 {
+    user-select: none;
+}
+
+.menuCard:hover {
+    background: linear-gradient(#FFFFFF,#F3F3F3);
+    border-top: 0.25px solid #F5F5F5;
+}
+
+#optionPane {
+    width: 73%;
+    padding-left: 2em;
+    padding-right: 2em;
+    overflow-y: scroll;
+}
+
+.optionCard {
+    background: linear-gradient(#FFFFFF,#F5F5F5);
+    margin: 1em;
+    padding: 0.5em;
+    display: block;
+}
+
+.optionCard:hover {
+    background: linear-gradient(#F5F5F5,#FFFFFF);
+}
+
+.optionCard > * {
+    text-align: center;
+}
