@@ -14,7 +14,7 @@ function OptionCard(d) {
         <div className="optionCard">
             <h3>{ d["name"] }</h3>
             <p>{ d["desc"] }</p>
-            <p>{ d["price"] }</p>
+            <p>£{ d["price"] }</p>
         </div>
     );
 }
