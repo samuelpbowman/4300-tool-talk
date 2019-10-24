@@ -1,5 +1,5 @@
 # Welcome to My Tool Talk!
-Hello there! Today, we will be exploring React JS, a JavaScript front-end framework developed by Facebook.
+Hello there! Today, we will be exploring React JS, a JavaScript front-end framework developed by Facebook. See the final product in action [here](https://master.d1v6ziopy5esxa.amplifyapp.com/)!
 
 ### Why React JS
 I like React because it allows users to develop sleek, responsive user interfaces to an already robust back-end. There is also a smaller learning curve with React than with other frameworks such as Angular, which makes it a good candidate for front-end work.
